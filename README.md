@@ -1,0 +1,2 @@
+# telefonsatis
+Telefon Satış Sitesi
